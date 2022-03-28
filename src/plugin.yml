@@ -1,0 +1,8 @@
+name: DeathSwap
+version: 2.4
+main: deathswap.DeathSwap
+api-version: 1.13
+commands:
+ deathswap:
+   aliases: [ds]
+  
